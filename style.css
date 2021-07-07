@@ -25,3 +25,12 @@ h1 {
     width: 100%;
     border: 0;
 }
+
+main div {
+    display: flex;
+    align-items: center;
+}
+
+.coffee * {
+margin: .5em;
+}
